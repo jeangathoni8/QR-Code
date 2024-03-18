@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +22,8 @@ This is a screenshot of the finished project, showing the QR code in question.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-challenge-G296MvElhh)
-- Live Site URL: [Add live site URL here](https://jeangathoni8.github.io/QR-Code/)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-challenge-G296MvElhh)
+- Live Site URL: (https://jeangathoni8.github.io/QR-Code/)
 
 ### Built with
 
