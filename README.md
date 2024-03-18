@@ -41,7 +41,7 @@ I would like to enhance this project in the future and make it more interactive.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jeangathoni8)
+- Frontend Mentor - [@jeangathoni8](https://www.frontendmentor.io/profile/jeangathoni8)
 
 ## Acknowledgments
 
